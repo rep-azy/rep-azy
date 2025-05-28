@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, my name is Azel Sumanting
+
+I'm an aspiring Software Developer 🖥️ with hands-on experience in building both web 💻 and mobile 📱 applications, currently I'm passionate about Front-End development.
+I’ve worked using React Native, Vue.js, Firebase, and Geospatial APIs to create real-world solutions 🚀, including community safety tools 🆘 and admin dashboards 👮.
+Currently looking for opportunities 🤝 where I can contribute 👏, learn 📚, and grow as a developer 👨‍💻.
+
+
+- 🔭 Currently building Mayday, an emergency reporting system for the community and responders of Indang, Cavite — check it out [here].
+- 🌱 Exploring Next.js, Node.js, Vite, C++, Python, and Flutter to expand my development toolkit.
 
 <!--
 **rep-azy/rep-azy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
