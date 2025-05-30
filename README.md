@@ -13,8 +13,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" style="display: inline-block;"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="42" height="42" /></a></p>
 <h2>📫 Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/azy-sumanting" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><a target="_blank" href="https://www.facebook.com/azysumanting" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/azy-sumanting" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/azysumanting" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 
 <h2>⚡️ Other Activities</h2>
 <ul>
