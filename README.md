@@ -1,12 +1,23 @@
-## Hi there 👋, my name is Azel Sumanting
-
-I'm an aspiring Software Developer 🖥️ with hands-on experience in building both web 💻 and mobile 📱 applications, currently I'm passionate about Front-End development.
-I’ve worked using React Native, Vue.js, Firebase, and Geospatial APIs to create real-world solutions 🚀, including community safety tools 🆘 and admin dashboards 👮.
-Currently looking for opportunities 🤝 where I can contribute 👏, learn 📚, and grow as a developer 👨‍💻.
-
-
+<h1>Hi 👋, I'm Azel Sumanting</h1>
+<p>I'm an aspiring Software Developer 🖥️ with hands-on experience in building both web 💻 and mobile 📱 applications, currently I'm passionate about Front-End development. I’ve worked using React Native, Vue.js, Firebase, and Geospatial APIs to create real-world solutions 🚀, including community safety tools 🆘 and admin dashboards 👮. Currently looking for opportunities 🤝 where I can contribute 👏, learn 📚, and grow as a developer 👨‍💻.</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
+<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" style="display: inline-block;"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="42" height="42" /></a></p>
+<h2>📫 Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/azy-sumanting" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<h2>⚡️ Other Activities</h2>
 - 🔭 Currently building Mayday, an emergency reporting system for the community and responders of Indang, Cavite — check it out [here].
 - 🌱 Exploring Next.js, Node.js, Vite, C++, Python, and Flutter to expand my development toolkit.
+
 
 <!--
 **rep-azy/rep-azy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
