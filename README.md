@@ -15,8 +15,8 @@
 <h2>📫 Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/azy-sumanting" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <h2>⚡️ Other Activities</h2>
-- 🔭 Currently building Mayday, an emergency reporting system for the community and responders of Indang, Cavite — check it out [here].
-- 🌱 Exploring Next.js, Node.js, Vite, C++, Python, and Flutter to expand my development toolkit.
+<p>- 🔭 Currently building Mayday, an emergency reporting system for the community and responders of Indang, Cavite — check it out here.</p> 
+<p>- 🌱 Exploring Next.js, Node.js, Vite, C++, Python, and Flutter to expand my development toolkit.</p>
 
 
 <!--
