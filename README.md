@@ -20,7 +20,7 @@
 <ul>
   <li>🔭 Currently building <strong>Mayday</strong>, an emergency reporting system for the community and responders of Indang, Cavite — <a href="https://mayday-beige.vercel.app/login" target="_blank">check it out here</a>.</li>
   <li>🌱 Exploring technologies like <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>Vite</strong>, <strong>C++</strong>, <strong>Python</strong>, and <strong>Flutter</strong> to expand my development toolkit.</li>
-  <li>🔨 Actively developing my professional portfolio to support my job search — <a href="https://your-portfolio-link.com" target="_blank">view it here</a>.</li>
+  <li>🔨 Actively developing my professional portfolio to support my job search — <a href="https://portfolio-azy.vercel.app/" target="_blank">view it here</a>.</li>
 </ul>
 
 
